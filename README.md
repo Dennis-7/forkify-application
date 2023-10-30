@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads. Coded Along with Jonass
+Recipe application with custom recipe uploads.
